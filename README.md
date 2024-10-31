@@ -7,7 +7,7 @@ This setup assumes that you're already running:
 
 ## 1. Usage
 The server exposes: 
-  * VPN endpoint on port DOMAIN.COM:51820
+  * VPN endpoint on port vpn.DOMAIN.COM:51820
   * Web UI at wg.DOMAIN.COM
 
 ## 2. Router setup
